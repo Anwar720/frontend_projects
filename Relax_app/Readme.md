@@ -1,4 +1,4 @@
 # Relaxer APP
 
 
-![screen-gif](.img/relaxer.gif)
+![screen-gif](../img/relaxer.gif)
